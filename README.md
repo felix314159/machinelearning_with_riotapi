@@ -1,4 +1,4 @@
-# machinelearning_with_riotapi
+# Random User Name Generator (trained on League of Legends summoner names)
 # What is this?
 I created a Deep Learning model that generates random user names. 
 
