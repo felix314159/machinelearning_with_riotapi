@@ -18,10 +18,10 @@ While generating the model tensorflow is printing out deep learning generated na
 I trained my model on more than 60000 summoner names from the popular MOBA game League of Legends to create this model. I then generated more than 6000 new names using Tensorflows deep learning techniques. You can find these generated names in /4 - summary/output.txt
 
 
-I must say that my model created some hilarious usernames.
+The model already created some hilarious usernames.
 
 
-I might make a Best-Of list soon!
+A Best-Of list might come soon! :)
 
 
 
