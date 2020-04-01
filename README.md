@@ -23,6 +23,7 @@ I already found some hilarious usernames in output.txt
 A Best-Of list might come soon! :)
 
 
+
 PS: If tensorflow keeps spitting warning at you, you should downgrade your numpy version to 1.16.4
 
 
