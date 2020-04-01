@@ -14,10 +14,10 @@ While generating the model tensorflow is printing out deep learning generated na
 
 # Summary
 
-I trained my model on more than 60000 summoner names from the popular MOBA game League of Legends to create this model. I then generated more than 6000 new names using Tensorflows deep learning techniques. You can find these generated names in /4 - summary/output.txt
+I trained my model on more than 60000 summoner names from the popular MOBA game League of Legends to create this model. While training it generated more than 6000 new names using Tensorflows deep learning techniques. You can find these generated names in /4 - summary/output.txt. Keep in mind that while training the model Tensorflow varies parameters like the diversity (which is 0.4, 0.6, 0.8, 1.0, 1.2 or 1.4). So the higher the diversity the more random (and non-human like) the names usually are. In the list output.txt I sorted all generated names alphabetically, which means that names that have been generated with different parameters are mixed. That's why some names appear pretty random meanwhile others are pretty human-like.
 
 
-The model already created some hilarious usernames.
+I already found some hilarious usernames in output.txt
 
 
 A Best-Of list might come soon! :)
