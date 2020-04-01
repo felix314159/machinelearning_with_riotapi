@@ -24,7 +24,7 @@ A Best-Of list might come soon! :)
 
 
 
-Oh and one more thing: If tensorflow keeps spitting warning at you, you should downgrade your numpy version to 1.16.4
+Oh and one more thing: If tensorflow keeps spitting warnings at you for using deprecated methods, you should downgrade your numpy version to 1.16.4
 
 
 
